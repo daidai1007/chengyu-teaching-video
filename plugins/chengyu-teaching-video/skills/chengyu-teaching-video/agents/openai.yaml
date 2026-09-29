@@ -1,0 +1,4 @@
+interface:
+  display_name: "成语教学视频生成器"
+  short_description: "制作两至四栏成语教学动画及题目文件"
+  default_prompt: "使用 $chengyu-teaching-video 根据成语、释义和题目生成两至四栏竖版教学视频与可复制题目。"

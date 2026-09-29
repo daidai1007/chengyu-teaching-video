@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "chengyu-teaching-video",
+  "version": "0.1.0",
+  "description": "制作中国老课本儿童教育绘本风格的成语教学动画",
+  "author": {
+    "name": "大代1007"
+  },
+  "keywords": [
+    "chengyu",
+    "education",
+    "video",
+    "chinese"
+  ]
+}

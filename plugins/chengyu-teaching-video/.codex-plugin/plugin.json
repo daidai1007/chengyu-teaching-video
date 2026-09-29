@@ -1,0 +1,18 @@
+{
+  "name": "chengyu-teaching-video",
+  "version": "0.1.0",
+  "description": "制作中国老课本儿童教育绘本风格的成语教学动画",
+  "author": {
+    "name": "大代1007"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "成语教学视频",
+    "shortDescription": "制作两至四栏竖版成语辨析动画",
+    "longDescription": "根据成语、拼音、褒贬、释义和侧重点，生成1080×1920中国老课本绘本风格教学视频及配套检查资料。",
+    "developerName": "大代1007",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "使用 $chengyu-teaching-video 制作一组竖版成语教学动画。"
+  }
+}
